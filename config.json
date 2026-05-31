@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartfecrypt",
+        "uuid": 27424740,
+        "checksum": "dxomy"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
